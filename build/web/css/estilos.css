@@ -1,0 +1,7 @@
+.container{
+    width: 60%;
+}
+.form {
+    display: flex;
+    padding-left: 400px;
+}
